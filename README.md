@@ -41,5 +41,4 @@ user testing was done for this project
 
 GitHub Username: A-Speece
 Email: anthonyspeece@gmail.com
-GitHub application URL :
-Heroku application URL :
+Heroku application URL : https://fathomless-coast-41872.herokuapp.com/
